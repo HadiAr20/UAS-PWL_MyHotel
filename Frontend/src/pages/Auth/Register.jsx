@@ -37,7 +37,7 @@ const RegistPage = () =>{
                                 <div className='w-100 d-flex justify-content-between'>
                                     <p>
                                         Sudah punya akun?
-                                        <a href="/login" className='text-decoration-none text-primary'> Login</a>
+                                        <a href="/" className='text-decoration-none text-primary'> Login</a>
                                     </p>
                                 </div>
                                 <div className='row'>

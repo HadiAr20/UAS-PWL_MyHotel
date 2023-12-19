@@ -19,7 +19,7 @@ function App() {
         <Route path="/admin/order" element={<ListOrder/>} />
         <Route path="/admin/user" element={<ListUser/>} />
         <Route path="/admin/login" element={<LoginAdmin/>} />
-        <Route path="/login" element={<LoginPage/>} />
+        <Route path="/" element={<LoginPage/>} />
         <Route path="/register" element={<RegistPage/>} />
         <Route path="/edit" element={<EditKamar/>} />
 
