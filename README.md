@@ -15,7 +15,7 @@ Database : MySQL
 
 Install venv
 ```bash
-git clone https://github.com/adislksn/my_hotel.git
+git clone https://github.com/HadiAr20/UAS-PWL_MyHotel.git
 cd my_hotel\backend
 python -m venv venv
 ```
