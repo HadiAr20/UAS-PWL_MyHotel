@@ -47,7 +47,7 @@ function ListKamar() {
                     aria-label="Default"
                     aria-describedby="inputGroup-sizing-default"
                     placeholder="Cari"
-                    className="border-end rounded-end-4"
+                    className="border-0 rounded-end-4"
                     />
                 </InputGroup>
                 <div className="d-flex align-items-center">

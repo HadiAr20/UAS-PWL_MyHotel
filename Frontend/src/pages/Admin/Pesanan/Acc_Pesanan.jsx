@@ -43,7 +43,7 @@ const ListOrder = () => {
             <InputGroup className="my-3 w-50">
               <InputGroup.Text
                 id="inputGroup-sizing-default"
-                className="rounded-start-4 Listborder-0"
+                className="rounded-start-4 border-0"
                 style={{
                   backgroundColor: "#fff",
                 }}
@@ -54,7 +54,7 @@ const ListOrder = () => {
                 aria-label="Default"
                 aria-describedby="inputGroup-sizing-default"
                 placeholder="Cari"
-                className="border-end rounded-end-4"
+                className="border-0 rounded-end-4"
               />
             </InputGroup>
           </div>

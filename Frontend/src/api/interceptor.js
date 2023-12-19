@@ -1,11 +1,11 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL:  'http://google.com',
+  baseURL:  'http://localhost:6543',
   headers:{
     "Accept":"application/json, text/plain, /",
     "Content-Type": "multipart/form-data",
-    "access-control-allow-origin": "http://google.com"}
+    "access-control-allow-origin": "http://localhost:6543"}
 
   // You can set your base URL and other config options here
 });
