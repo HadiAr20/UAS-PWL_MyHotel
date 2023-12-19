@@ -5,6 +5,10 @@ Frontend : React\
 Backend  : Pyramid\
 Database : MySQL
 
+## Architecture Web 
+Berikut adalah architecture web My Hotel
+![architecture](assets/architecture.jpg)
+
 ## Installation Backend
 
 ```py
